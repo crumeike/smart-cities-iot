@@ -60,8 +60,9 @@ This project implemented an intelligent sensing and decision-support framework f
    └─────────┘   └──────────┘  └──────────┘
 ```
 
-<img width="968" height="290" alt="image" src="https://github.com/user-attachments/assets/0ccd5a92-0136-4307-be07-2e06ac9777b9" />
+<img width="968" height="330" alt="image" src="https://github.com/user-attachments/assets/0ccd5a92-0136-4307-be07-2e06ac9777b9" />
 
+<img width="938" height="467" alt="image" src="https://github.com/user-attachments/assets/06e478e8-fd42-4298-be68-bc89fab4d858" />
 
 ## 🛠️ Technologies Used
 
