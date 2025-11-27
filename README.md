@@ -1,3 +1,5 @@
+<img width="1943" height="576" alt="project-smart-cities" src="https://github.com/user-attachments/assets/08383a13-4aae-4310-84e2-8667bed915b2" />
+
 # Smart Cities and IoT Resilience Systems
 
 [![Research Project](https://img.shields.io/badge/Status-Research%20Complete-success)](https://github.com/crumeike/smart-cities-iot)
@@ -58,6 +60,9 @@ This project implemented an intelligent sensing and decision-support framework f
    └─────────┘   └──────────┘  └──────────┘
 ```
 
+<img width="1068" height="390" alt="image" src="https://github.com/user-attachments/assets/0ccd5a92-0136-4307-be07-2e06ac9777b9" />
+
+
 ## 🛠️ Technologies Used
 
 - **Hardware**: 
@@ -113,19 +118,21 @@ Implementation code for specific system components:
 
 **Faculty Advisor:**
 - Dr. Thang Dao, University of Alabama
+- Xiaoyan Hong
+- Alan T Johnston
 
-**Graduate Researcher:**
-- Chibuike Robinson Umeike
+**Lead Researcher:**
+- Robinson Umeike
+- Xiaoming Guo
 
 **Collaborators:**
-- Xiaobing Guo
-- Xiaobing Hong
-- Andrew T. Johnston
+- Vic Zhong
+- Aaron Schofield
+
 
 ## 💡 Project Funding
 
 **Funding Agency:** Alabama Department of Transportation (ALDOT)
-
 **Institution:** University of Alabama, Department of Civil, Construction, and Environmental Engineering
 
 ## 📱 System Components
