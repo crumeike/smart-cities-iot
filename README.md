@@ -3,7 +3,7 @@
 # Smart Cities and IoT Resilience Systems
 
 [![Research Project](https://img.shields.io/badge/Status-Research%20Complete-success)](https://github.com/crumeike/smart-cities-iot)
-[![Published](https://img.shields.io/badge/Publication-TISDIC%202023-blue)](https://iopscience.iop.org/)
+[![Published](https://img.shields.io/badge/Publication-TISDIC%202023-blue)](https://iopscience.iop.org/article/10.1088/1757-899X/1289/1/012022)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Real-time flood monitoring and decision support system for urban infrastructure resilience using IoT sensors and edge computing.
