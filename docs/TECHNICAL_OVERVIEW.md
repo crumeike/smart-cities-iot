@@ -17,6 +17,10 @@
    - Advantages: High accuracy, real-time data
    - Use case: Trend analysis and prediction
 
+<img width="753" height="481" alt="image" src="https://github.com/user-attachments/assets/d0b0b130-d0f2-4bc9-9873-695ba777476d" />
+
+<img width="978" height="836" alt="image" src="https://github.com/user-attachments/assets/5a2e2996-4162-4673-8ac0-adc966dbb4a0" />
+
 ### Communication Architecture
 
 **Publish-Subscribe Model:**
@@ -24,6 +28,8 @@
 - Dashboard and mobile app subscribe to data streams
 - Decoupled architecture for scalability
 - Real-time message distribution
+
+<img width="715" height="610" alt="image" src="https://github.com/user-attachments/assets/cfb97d9b-757c-4a41-b575-c5eb4bd6e818" />
 
 ### Data Processing
 
@@ -36,8 +42,9 @@
 **Cloud Processing:**
 - Data aggregation and storage
 - Historical analysis
-- Machine learning models
 - System-wide coordination
+
+<img width="561" height="689" alt="image" src="https://github.com/user-attachments/assets/b9902414-ab47-4024-a8a5-3a0a17bc2970" />
 
 ## Standards Compliance
 
@@ -48,6 +55,7 @@ The system implements OIIE standards for:
 - Interoperable communication protocols
 - Vendor-neutral architecture
 - Future extensibility
+
 
 ## Performance Metrics
 
