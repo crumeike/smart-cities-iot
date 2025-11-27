@@ -11,13 +11,13 @@
    - Advantages: Low cost, reliable, no power required
    - Use case: Emergency flood alerts
 
-2. **Optical Sensors**
+2. **Optical Sensors/Diodes**
    - Purpose: Continuous water level measurement
    - Function: Precise depth readings
    - Advantages: High accuracy, real-time data
    - Use case: Trend analysis and prediction
 
-<img width="753" height="481" alt="image" src="https://github.com/user-attachments/assets/d0b0b130-d0f2-4bc9-9873-695ba777476d" />
+<img width="653" height="381" alt="image" src="https://github.com/user-attachments/assets/d0b0b130-d0f2-4bc9-9873-695ba777476d" />
 
 <img width="553" height="436" alt="image" src="https://github.com/user-attachments/assets/ac025045-db8f-46b7-a1df-d2b10c4f82d3" />
 
@@ -29,10 +29,9 @@
 - Dashboard and mobile app subscribe to data streams
 - Decoupled architecture for scalability
 - Real-time message distribution
+- Uses the Information Service Bus Model (ISBM) 
 
-<img width="581" height="581" alt="image" src="https://github.com/user-attachments/assets/cfb97d9b-757c-4a41-b575-c5eb4bd6e818" />
-
-### Data Processing
+### Data Processing (using ISBM module)
 
 **Edge Computing Layer:**
 - Local data validation and filtering
@@ -44,6 +43,8 @@
 - Data aggregation and storage
 - Historical analysis
 - System-wide coordination
+
+<img width="581" height="581" alt="image" src="https://github.com/user-attachments/assets/cfb97d9b-757c-4a41-b575-c5eb4bd6e818" />
 
 <img width="461" height="589" alt="image" src="https://github.com/user-attachments/assets/b9902414-ab47-4024-a8a5-3a0a17bc2970" />
 
