@@ -19,7 +19,7 @@
 
 <img width="753" height="481" alt="image" src="https://github.com/user-attachments/assets/d0b0b130-d0f2-4bc9-9873-695ba777476d" />
 
-<img width="978" height="836" alt="image" src="https://github.com/user-attachments/assets/5a2e2996-4162-4673-8ac0-adc966dbb4a0" />
+<img width="753" height="481" alt="image" src="https://github.com/user-attachments/assets/5a2e2996-4162-4673-8ac0-adc966dbb4a0" />
 
 ### Communication Architecture
 
@@ -29,7 +29,7 @@
 - Decoupled architecture for scalability
 - Real-time message distribution
 
-<img width="715" height="610" alt="image" src="https://github.com/user-attachments/assets/cfb97d9b-757c-4a41-b575-c5eb4bd6e818" />
+<img width="481" height="481" alt="image" src="https://github.com/user-attachments/assets/cfb97d9b-757c-4a41-b575-c5eb4bd6e818" />
 
 ### Data Processing
 
