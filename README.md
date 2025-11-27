@@ -110,7 +110,7 @@ This project implemented an intelligent sensing and decision-support framework f
 This repository contains:
 - Research documentation
 - System architecture diagrams
-- Technical specifications
+- [Technical specifications](docs/TECHNICAL_OVERVIEW.md)
 - Project overview and results
 
 ## 🔗 Related Repositories
