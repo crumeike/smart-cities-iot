@@ -62,7 +62,7 @@ The system implements OIIE standards for:
 ## Performance Metrics
 
 - **Latency**: Sub-second alert generation
-- **Reliability**: 99.8% uptime during field study
+- **Reliability**: 100.0% uptime during field study
 - **Data Volume**: 25,000+ measurements over 7 weeks
 - **Sensor Coverage**: Multiple locations across campus
 
