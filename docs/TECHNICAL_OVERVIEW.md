@@ -1,0 +1,78 @@
+# Technical Overview
+
+## System Components
+
+### Sensor Network
+
+**Sensor Types:**
+1. **Mechanical Switches**
+   - Purpose: Threshold-based detection
+   - Function: Binary alert when water reaches specific level
+   - Advantages: Low cost, reliable, no power required
+   - Use case: Emergency flood alerts
+
+2. **Optical Sensors**
+   - Purpose: Continuous water level measurement
+   - Function: Precise depth readings
+   - Advantages: High accuracy, real-time data
+   - Use case: Trend analysis and prediction
+
+### Communication Architecture
+
+**Publish-Subscribe Model:**
+- Sensors publish data to message broker
+- Dashboard and mobile app subscribe to data streams
+- Decoupled architecture for scalability
+- Real-time message distribution
+
+### Data Processing
+
+**Edge Computing Layer:**
+- Local data validation and filtering
+- Immediate alert generation
+- Reduced network bandwidth
+- Faster response times
+
+**Cloud Processing:**
+- Data aggregation and storage
+- Historical analysis
+- Machine learning models
+- System-wide coordination
+
+## Standards Compliance
+
+### OIIE (Open Industrial Interoperability Ecosystem)
+
+The system implements OIIE standards for:
+- Data format standardization
+- Interoperable communication protocols
+- Vendor-neutral architecture
+- Future extensibility
+
+## Performance Metrics
+
+- **Latency**: Sub-second alert generation
+- **Reliability**: 99.8% uptime during field study
+- **Data Volume**: 25,000+ measurements over 7 weeks
+- **Sensor Coverage**: Multiple locations across campus
+
+## Field Deployment
+
+**Location:** University of Alabama campus  
+**Duration:** 7 weeks  
+**Environment:** Real-world flood-prone areas  
+**Outcome:** Successful validation of system design
+
+## Research Outcomes
+
+1. Demonstrated feasibility of low-cost IoT for flood monitoring
+2. Validated standards-based interoperability approach
+3. Proved effectiveness of edge computing for alerts
+4. Established scalability for city-wide deployment
+
+## Future Work
+
+- Integration with city emergency systems
+- Machine learning for flood prediction
+- Extended sensor network coverage
+- Enhanced mobile application features
