@@ -44,9 +44,9 @@
 - Historical analysis
 - System-wide coordination
 
-<img width="581" height="581" alt="image" src="https://github.com/user-attachments/assets/cfb97d9b-757c-4a41-b575-c5eb4bd6e818" />
-
 <img width="461" height="589" alt="image" src="https://github.com/user-attachments/assets/b9902414-ab47-4024-a8a5-3a0a17bc2970" />
+
+<img width="581" height="581" alt="image" src="https://github.com/user-attachments/assets/cfb97d9b-757c-4a41-b575-c5eb4bd6e818" />
 
 ## Standards Compliance
 
