@@ -63,6 +63,8 @@ The system implements OIIE standards for:
 **Environment:** Real-world flood-prone areas  
 **Outcome:** Successful validation of system design
 
+<img width="361" height="396" alt="image" src="https://github.com/user-attachments/assets/2725b930-f193-4482-aea4-e12eb5055689" />
+
 ## Research Outcomes
 
 1. Demonstrated feasibility of low-cost IoT for flood monitoring
