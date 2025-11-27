@@ -68,7 +68,7 @@ The system implements OIIE standards for:
 
 ## Field Deployment
 
-**Location:** University of Alabama campus  
+**Location:** University of Alabama campus underground stormwater pit 
 **Duration:** 7 weeks  
 **Environment:** Real-world flood-prone areas  
 **Outcome:** Successful validation of system design
