@@ -76,8 +76,6 @@ This project implemented an intelligent sensing and decision-support framework f
 - **Mobile**: Flutter framework (Dart)
 - **Communication**: Publish-Subscribe messaging
 
-<img width="715" height="610" alt="image" src="https://github.com/user-attachments/assets/cfb97d9b-757c-4a41-b575-c5eb4bd6e818" />
-
 ## 📈 Results
 
 - Successfully monitored flood-prone areas in real-time
@@ -86,9 +84,6 @@ This project implemented an intelligent sensing and decision-support framework f
 - Published at **TISDIC 2023** international conference
 
 <img width="728" height="707" alt="image" src="https://github.com/user-attachments/assets/d287db6a-148f-4a35-8ae7-68a36582bd6b" />
-
-<img width="880" height="559" alt="image" src="https://github.com/user-attachments/assets/d5625bf5-3ddf-42cc-9942-f5d1baf36919" />
-
 
 ## 📝 Publications
 
