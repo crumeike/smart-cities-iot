@@ -135,6 +135,7 @@ Implementation code for specific system components:
 ## 💡 Project Funding
 
 **Funding Agency:** Alabama Department of Transportation (ALDOT)
+
 **Institution:** University of Alabama, Department of Civil, Construction, and Environmental Engineering
 
 ## 📱 System Components
