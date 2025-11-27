@@ -60,7 +60,7 @@ This project implemented an intelligent sensing and decision-support framework f
    └─────────┘   └──────────┘  └──────────┘
 ```
 
-<img width="1068" height="390" alt="image" src="https://github.com/user-attachments/assets/0ccd5a92-0136-4307-be07-2e06ac9777b9" />
+<img width="768" height="190" alt="image" src="https://github.com/user-attachments/assets/0ccd5a92-0136-4307-be07-2e06ac9777b9" />
 
 
 ## 🛠️ Technologies Used
@@ -83,7 +83,7 @@ This project implemented an intelligent sensing and decision-support framework f
 - Demonstrated scalability for city-wide deployment
 - Published at **TISDIC 2023** international conference
 
-<img width="728" height="707" alt="image" src="https://github.com/user-attachments/assets/d287db6a-148f-4a35-8ae7-68a36582bd6b" />
+<img width="628" height="607" alt="image" src="https://github.com/user-attachments/assets/d287db6a-148f-4a35-8ae7-68a36582bd6b" />
 
 ## 📝 Publications
 
